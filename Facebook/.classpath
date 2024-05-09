@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Selenium Velocity/selenium-server-4.18.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-anim-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-awt-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-bridge-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-constants-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-css-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-ext-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-gvt-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-i18n-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-parser-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-script-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-shared-resources-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-svg-dom-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-svggen-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-svgrasterizer-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-transcoder-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-util-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/batik-xml-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/bcpkix-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/bcprov-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/bcutil-jdk15on-1.70.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/fontbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/graphics2d-0.40.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/pdfbox-2.0.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/xmlgraphics-commons-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mayur/Desktop/Velocity Notes/Automation/poi-bin-5.2.3-20220909/poi-bin-5.2.3/All_jar/xmlsec-3.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
